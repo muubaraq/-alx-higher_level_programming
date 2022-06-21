@@ -1,0 +1,1 @@
+This project are about Classes and Objects on Python (a higher-level language).
