@@ -1,0 +1,1 @@
+This projects is about more Inheritance on Python (A higher level programming language)
