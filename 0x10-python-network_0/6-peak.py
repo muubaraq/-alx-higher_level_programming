@@ -23,4 +23,3 @@ def find_peak(list_of_integers):
     if li[mid + 1] > li[mid - 1]:
         return find_peak(li[mid:])
     return find_peak(li[:mid])
-    
